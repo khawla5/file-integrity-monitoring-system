@@ -1,0 +1,5 @@
+{
+  "monitoring": true,
+  "scan_interval": 60,
+  "hash_algorithm": "SHA256"
+}
