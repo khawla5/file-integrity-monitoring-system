@@ -136,6 +136,34 @@ http://localhost:3000
 
 ## 📷 Screenshots
 
+### Dashboard Home
+
+![Dashboard Home](screenshots/dashboard-home.png)
+
+---
+
+### Monitoring Dashboard
+
+![Monitoring Dashboard](screenshots/dashboard-monitoring.png)
+
+---
+
+### Modified Files Detection
+
+![Modified Files](screenshots/dashboard-modified-files.png)
+
+---
+
+### Alert Notification
+
+![Alert Notification](screenshots/dashboard-alerts.png)
+
+---
+
+### Final Dashboard UI
+
+![Final Dashboard](screenshots/dashboard-final-ui.png)
+
 ### Dashboard
 
 > Screenshots will be added soon.
