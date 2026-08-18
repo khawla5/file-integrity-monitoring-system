@@ -196,6 +196,35 @@ Test scenarios included:
 - ☁️ Cloud Database Support
 
 ---
+## How to Run the Project
+
+### Frontend
+
+Open a terminal and run:
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+### Backend
+
+Open another terminal and run:
+
+```bash
+cd backend
+pip install flask flask-cors sqlalchemy watchdog
+python scanner.py
+python app.py
+```
+
+### Notes
+
+* Run the Frontend and Backend in separate terminals.
+* Make sure Node.js and Python are installed before running the project.
+
+
 
 ## 👩‍💻 Author
 
